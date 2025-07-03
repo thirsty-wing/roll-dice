@@ -13,4 +13,4 @@ Run `./roll-dice`
 
 ## add dice
 
-Edit main.c to add dice. Initialize die then pass to `print_roll()`.
+Edit main.c to add dice.
